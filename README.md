@@ -6,5 +6,6 @@ For this project a pipeline was built that can be used within a web or mobile ap
 
 ## Get started
 
-Download the dog dataset
-Download the human_dataset
+Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dog_images`. 
+
+* Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the home directory, at location `/lfw`.  
